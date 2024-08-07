@@ -1,0 +1,162 @@
+.nav{
+    color:#798da3;
+    font-size: 25px;
+    font-weight: 700;
+}
+
+a{
+text-decoration: none;
+}
+
+.row > * {
+    position: relative;
+  }
+
+
+  /* FullScreenBanner */
+/* .banner {
+    height: 100vh;
+    min-height: 500px;
+    background-image:url('../images/banner001.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    color: #fff !important
+  }
+   */
+
+.fw-600{
+    font-weight: 600;
+}
+
+.btn-large{
+    padding: 15px 46px;
+    font-size: 16px;
+    line-height: 1.33;
+    border-radius: 6px;
+}
+
+.btn-black{
+    border: 3.5px solid #29323d;
+    background-color: #29323d;
+    color: #fff !important;
+}
+.btn-black:hover{
+    border: 3.5px solid #fff;
+    background-color: transparent;
+    color: #fff !important; 
+}
+.btn-white{
+    border: 3.5px solid #29323d;
+    background-color: #fff;
+    color: #29323d !important;  
+}
+
+
+.btn-white:hover{
+    border: 3.5px solid #fff;
+    background-color: transparent;
+    color: #fff !important;  
+}
+
+
+
+.border-btm{
+    border-bottom: 1px solid #e1e1e1;
+}
+.section {
+    padding-top: 80px;
+    padding-bottom: 80px;
+    position: relative;
+}
+
+/* Banner half-banner*/
+.bg-overlay {
+    background-color: rgba(0, 0, 0, 0.7);
+    position: absolute;
+    top: 0;
+    right: 0;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    height: 100%;
+}
+
+.bg-home-half {
+    background-image:url('../images/banner001.jpg');
+    background-size: cover;
+    background-position: center center;
+    padding: 250px 0px 200px;
+    position: relative;
+    color: #fff !important
+}
+
+
+.home-center {
+    display: table;
+    width: 100%;
+    height: 100%;
+}
+
+
+.home-desc-center {
+    display: table-cell;
+    vertical-align: middle;
+}
+
+.banner-text{
+    font-size: 2.3rem;
+}
+/* Banner half-banner*/
+
+.numbers{
+    height: 1.5rem;
+    width:1.5rem;
+    border-radius: 50%;
+    background-color: #798da3;
+    color: #fff;
+
+}
+
+body{
+    font-family: 'Open Sans', sans-serif;
+    
+}
+
+.about-desc h2{
+    font-size:30px;
+    
+}
+
+
+.forms{
+    justify-content: center;
+}
+
+.individual{
+    justify-content: center;
+}
+
+.bg-gray{
+    background-color: #edf0f4;
+}
+
+.small-bdr{
+    
+   border:3px solid #1b3755;
+    width:60px;
+    margin:auto;
+}
+
+.social_icons > i{
+    background-color: #fff;
+    border-radius: 50%;
+    font-size: 30px;
+    padding: 2%;
+    color: #9fafc1;
+    width: 78px;
+display: inline-block;
+text-align: center;
+margin-right: 15px;
+}
+
